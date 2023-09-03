@@ -1,0 +1,15 @@
+isEmpty()
+Pop()
+Push()
+get_size()
+Push()
+isEmpty()
+get_size()
+Peek()
+Pop()
+Pop()
+isEmpty()
+get_size()
+3
+d
+Quit

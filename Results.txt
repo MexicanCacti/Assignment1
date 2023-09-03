@@ -1,0 +1,15 @@
+Test2
+TRUE  		List: 
+Popped  	List: 
+Pushed 56 	List: [56] 
+Size: 1 	List: [56] 
+Pushed 3 	List: [56] [3] 
+FALSE  		List: [56] [3] 
+Size: 2 	List: [56] [3] 
+INVALID COMMAND
+Popped  	List: [56] 
+Popped  	List: 
+TRUE  		List: 
+Size: 0 	List: 
+INVALID COMMAND
+INVALID COMMAND
